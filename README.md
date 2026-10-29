@@ -79,6 +79,11 @@ For a detailed installation guide, see [Installation instructions](.github/docs/
 
 ---
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/InvoicePlane/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/invoiceplane"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## Removing `index.php` from URLs
 
 To remove `index.php` from your URLs:
